@@ -1,0 +1,9 @@
+# Services and account data
+
+The Glucky Wars account service is done with the help of Xsolla.
+They are point-by-point encryptions.
+
+Player data/info like user ID and password and other such things are stored
+online and they are private and cannot be exposed.
+
+All rights reserved
